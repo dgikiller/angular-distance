@@ -1,5 +1,4 @@
 # Angular Distance
----
 Angular Distance is program for calculating distances between a given set of stars.<br>
 This program uses MPI for calculating stars' distance with multiple process, fairly splitting work between these.
 ## Compilation & Running
